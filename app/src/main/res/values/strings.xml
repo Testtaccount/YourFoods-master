@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Your Foods</string>
+    <string name="title_activity_main_user">MainUserActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="facebook_app_id">1637804569605323</string>
+    <string name="link_handle">https://yourfoods-e4e2e.firebaseapp.com/__/auth/handler</string>
+    <string name="facebook_app_key">c53a0439a6b2ab9d8995d8e69b2c1099</string>
+    <string name="key_map_api">AIzaSyAN9QCd23ksIV4aQSivHY9C5ZkJ0k1XW4E</string>
+
+    <string-array name="listpermisstion">
+        <item>email</item>
+        <item>public_profile</item>
+        <item>user_friends</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_category">CreateCategory</string>
+    //String value
+    <string name="user_name">User Name</string>
+    <string name="user_store">User Store</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_phone_number">Enter PhoneNumber</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="order">Ordered</string>
+    <string name="shipped">Shipped</string>
+    <string name="change_photo_profile">Change Image</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_favorite">My Favorites</string>
+    <string name="history_order">History Order</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="log_out">Log out</string>
+
+    //about_us
+    <string name="about_us">About us</string>
+</resources>

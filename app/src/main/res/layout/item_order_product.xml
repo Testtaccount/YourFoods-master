@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:weightSum="10"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="20dp">
+        <TextView
+            android:id="@+id/txtNameOrderItem"
+            android:gravity="center"
+            android:text="Phở"
+            android:textSize="13dp"
+            android:layout_weight="4.98"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:background="@color/black"
+            android:layout_weight="0.01"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/txtCountOrderItem"
+            android:text="2"
+            android:typeface="serif"
+            android:textSize="13dp"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:background="@color/black"
+            android:layout_weight="0.01"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/txtPriceOrderItem"
+            android:gravity="center"
+            android:text="35000 VND"
+            android:layout_weight="3"
+            android:textSize="13dp"
+            android:typeface="serif"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <TextView
+        android:background="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="0.01dp" />
+
+</LinearLayout>

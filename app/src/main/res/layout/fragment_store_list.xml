@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.trannguyentanthuan2903.yourfoods.store_list.view.Store_List_Fragment">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerviewliststore"
+        android:background="@color/grey_white"
+        android:layout_marginTop="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       >
+    </android.support.v7.widget.RecyclerView>
+
+</FrameLayout>

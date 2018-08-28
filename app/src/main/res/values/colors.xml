@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#1d75a7</color>
+    <color name="colorPrimary">#35a2e1</color>
+    <color name="colorAccent">#3248ea</color>
+    //white
+    <color name="white">#ffffff</color>
+    <color name="black">#f8161313</color>
+    <color name="grey">#6c7078</color>
+    <color name="grey_white">#e6e6e7</color>
+    <color name="greys">#dad9d9</color>
+    //backgournd signup
+    <color name="bgsignup">#7d5db1</color>
+    <color name="item_Active">#df0509</color>
+    <color name="item_inactive">#650df4</color>
+    <color name="bg_ahbottom">#b9d2d1</color>
+    <color name="bg_stt">#009687</color>
+
+    //color bottom navigation
+    <color name="ahbottom">#060161</color>
+    <color name="stt2">#8cc24a</color>
+    <color name="stt1">#fcc00a</color>
+
+    //color switchcompat
+    <color name="my_awesome_color">#2d9ded</color>
+    //color Profile
+    <color name="tab1">#47b4f2</color>
+    <color name="tab2">#058ede</color>
+
+    //color
+    <color name="blue">#33a2e1</color>
+    <color name="blue_light">#72ccff</color>
+</resources>
